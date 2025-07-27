@@ -123,7 +123,7 @@ function GroupManagement({ onNavigate, currentPage }) {
       <div className="bg-white min-[500px]:shadow-lg border-0 min-[500px]:border border-gray-100 h-full flex flex-col min-[500px]:rounded-xl min-[500px]:m-3 min-[500px]:h-auto">
         {/* 헤더 - 고정 */}
         <div className="bg-gradient-to-r from-purple-500 to-indigo-600 text-white p-3 text-center flex-shrink-0">
-          <h1 className="text-lg font-bold mb-1">👥 모임 관리</h1>
+          <h1 className="text-lg font-bold mb-1">모임 관리</h1>
           <p className="text-purple-100 text-xs">모임과 참가자를 등록하고 관리하세요</p>
         </div>
 

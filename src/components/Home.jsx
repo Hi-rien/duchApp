@@ -29,7 +29,7 @@ function Home({ onNavigate, currentPage }) {
       <div className="bg-white min-[500px]:shadow-lg border-0 min-[500px]:border border-gray-100 h-full flex flex-col min-[500px]:rounded-xl min-[500px]:m-3 min-[500px]:h-auto">
         {/* 헤더 - 고정 */}
         <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white p-3 text-center flex-shrink-0">
-          <h1 className="text-lg font-bold mb-1">🍽️ 더치페이 계산기</h1>
+          <h1 className="text-lg font-bold mb-1">더치페이 계산기</h1>
           <p className="text-blue-100 text-xs">간편하고 정확한 모임비 정산</p>
         </div>
 

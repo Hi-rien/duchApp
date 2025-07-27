@@ -69,7 +69,7 @@ function BillingHistory({ onNavigate, currentPage }) {
       <div className="bg-white min-[500px]:shadow-lg border-0 min-[500px]:border border-gray-100 h-full flex flex-col min-[500px]:rounded-xl min-[500px]:m-3 min-[500px]:h-auto">
         {/* 헤더 - 고정 */}
         <div className="bg-gradient-to-r from-green-500 to-emerald-600 text-white p-3 text-center flex-shrink-0">
-          <h1 className="text-lg font-bold mb-1">📋 정산 내역 확인</h1>
+          <h1 className="text-lg font-bold mb-1">정산 내역 확인</h1>
           <p className="text-green-100 text-xs">저장된 정산 내역을 확인하고 관리하세요</p>
         </div>
 

@@ -1,6 +1,6 @@
 function Footer({ currentPage, onNavigate }) {
   return (
-    <div className="bg-white border-t border-gray-200 min-[500px]:rounded-b-xl overflow-hidden" style={{paddingBottom: 'max(12px, env(safe-area-inset-bottom))'}}>
+    <div className="bg-white border-t border-gray-200 min-[500px]:rounded-b-xl overflow-hidden">
       <div className="grid grid-cols-3 h-16">
         {/* 모임등록 */}
         <button
